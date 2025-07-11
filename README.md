@@ -67,4 +67,3 @@ It includes theory, exercises, exam questions, and bonus material – most with 
 
 ---
 
-¿Quieres que prepare ahora el `README.md` para la carpeta `guia-teorica/`? ¿O le seguimos después cuando tengamos los demás archivos teóricos bien listos?
