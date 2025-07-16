@@ -42,4 +42,4 @@ To compare strings, use .equals() or .equalsIgnoreCase(), not ==.
 ✅ La clase String es esencial para manipular texto en casi cualquier programa en Java.
 ✅ The String class is essential for handling text in almost any Java program.
 
-
+---
