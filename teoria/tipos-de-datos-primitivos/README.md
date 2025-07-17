@@ -63,5 +63,8 @@ char solo puede almacenar un carácter entre comillas simples 'A'.
 char can only store one character using single quotes 'A'.
 boolean solo acepta true o false.
 boolean only accepts true or false.
+
+---
+
 ✅ Los tipos primitivos son esenciales para representar información básica en cualquier programa Java.
 ✅ Primitive types are essential to represent basic information in any Java program.
