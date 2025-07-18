@@ -28,3 +28,5 @@ boolean tieneID = true;
 if (edad >= 18 && tieneID) {
     System.out.println("Puede entrar / Can enter");
 }
+
+---
