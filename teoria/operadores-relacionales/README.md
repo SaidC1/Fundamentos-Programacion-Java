@@ -30,3 +30,5 @@ int edad = 20;
 if (edad >= 18) {
     System.out.println("Mayor de edad / Legal age");
 }
+
+---
