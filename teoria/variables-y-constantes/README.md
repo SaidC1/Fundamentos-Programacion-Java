@@ -107,4 +107,8 @@ Valor de PI: 3.1416
 ✅ Escribir las constantes en MAYÚSCULAS.
 ✅ Inicializar variables al declararlas para evitar valores nulos.
 
---
+---
+
+✅ Variables --> datos que puede cambiar.
+✅ Constantes --> valores fijos que no deben modificarse.
+ 
