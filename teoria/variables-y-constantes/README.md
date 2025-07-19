@@ -111,4 +111,4 @@ Valor de PI: 3.1416
 
 ✅ Variables --> datos que puede cambiar.
 ✅ Constantes --> valores fijos que no deben modificarse.
- 
+✅ Buenas practicas de nombres y ámbito son clave para código limpio.
