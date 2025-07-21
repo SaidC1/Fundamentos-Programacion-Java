@@ -99,8 +99,8 @@ ArrayList tamaño: 4
 ✅ ¿Cuándo usar cada uno?
 
 -✅ Usar Array cuando:
-    - Sabes el tamaño desde el inicio
-    - Necesitas máxima eficiencia
+    - Sabes el tamaño desde el inicio.
+    - Necesitas máxima eficiencia.
 
 -✅ Usa ArrayList cuando:
     - No conoces el tamaño
