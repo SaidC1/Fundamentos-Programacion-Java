@@ -62,3 +62,30 @@ public class EntradaProcesoSalida {
         System.out.println("Has vivido aproximadamente " + edadEnDias + " días.");
     }
 }
+
+Salida ejemplo / Example output
+
+Ingresa tu edad: 20
+Has vivido aproximadamente 7300 días.
+
+---
+
+✅ Esquema visual
+
+[Entrada/Input] → [Proceso/Process] → [Salida/Output]
+
+Ejemplo real:
+
+Ingresa número → Lo multiplico x2 → Muestro resultado
+
+---
+
+📌 Resumen rápido
+✅ Entrada: obtienes datos (Scanner, lectura de archivo, etc.)
+✅ Proceso: aplicas lógica (operaciones, condicionales, ciclos)
+✅ Salida: muestras resultados (System.out.println, archivo, etc.)
+
+Este flujo existe en TODOS los programas, sin importar su complejidad.
+
+
+
