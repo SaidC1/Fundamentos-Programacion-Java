@@ -81,6 +81,7 @@ Ingresa número → Lo multiplico x2 → Muestro resultado
 ---
 
 📌 Resumen rápido
+
 ✅ Entrada: obtienes datos (Scanner, lectura de archivo, etc.)
 ✅ Proceso: aplicas lógica (operaciones, condicionales, ciclos)
 ✅ Salida: muestras resultados (System.out.println, archivo, etc.)
