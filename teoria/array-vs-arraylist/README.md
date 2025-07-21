@@ -103,8 +103,8 @@ ArrayList tamaño: 4
     - Necesitas máxima eficiencia.
 
 -✅ Usa ArrayList cuando:
-    - No conoces el tamaño
-    - Necesitas agregar o eliminar elementos dinámicamente
+    - No conoces el tamaño.
+    - Necesitas agregar o eliminar elementos dinámicamente.
 
 ---
 
