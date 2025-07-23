@@ -132,7 +132,7 @@ public class Main {
 
 package = organiza tus clases (como carpetas)
 
-import = permite usar clases de otro paquete
+import = permite usar clases de otro paquete.
 
 Java ya trae paquetes como java.util, java.io, etc.
 
