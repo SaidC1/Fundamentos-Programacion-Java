@@ -130,7 +130,7 @@ public class Main {
 
 ✅ Resumen rápido
 
-package = organiza tus clases (como carpetas)
+package = organiza tus clases (como carpetas).
 
 import = permite usar clases de otro paquete.
 
