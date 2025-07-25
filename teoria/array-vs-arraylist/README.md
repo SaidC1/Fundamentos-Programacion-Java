@@ -47,7 +47,7 @@ System.out.println(nombres.size())  // 2 elementos
 
 -Tamaño dinámico (crece o reduce según agregues/elimines)
 -Métodos útiles: .add(), .remove(), .get(), size()
--Puede guardar objetos, no tipos primitivos directamente
+-Puede guardar objetos, no tipos primitivos directamente.
 
 ✅ Comparación rápida
 
