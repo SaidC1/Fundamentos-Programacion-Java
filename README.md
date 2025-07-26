@@ -17,7 +17,7 @@ Este repositorio contiene todo mi aprendizaje y práctica de los fundamentos de 
 
 ---
 
-## 🧠 Temas que se abordan
+## 🧠 Temas que se abordan.
 
 - ¿Qué es programar?
 - Tipos de datos (`int`, `double`, `String`, `boolean`, etc.)
@@ -32,7 +32,7 @@ Este repositorio contiene todo mi aprendizaje y práctica de los fundamentos de 
 
 ---
 
-## 🚀 Propósito del repositorio
+## 🚀 Propósito del repositorio.
 
 - Reforzar lo visto en clase  
 - Prepararme para exámenes y prácticas  
@@ -41,7 +41,7 @@ Este repositorio contiene todo mi aprendizaje y práctica de los fundamentos de 
 
 ---
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Autor.
 
 **Irvin Said**  
 Estudiante de Ingeniería en Sistemas Computacionales  
