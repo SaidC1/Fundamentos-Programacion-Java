@@ -60,7 +60,7 @@ Cualquier estudiante que esté empezando en programación puede:
 
 ---
 
-## 🌐 English (short version)
+## 🌐 English (short version).
 
 This repository contains my notes and practice for learning Java programming fundamentals.  
 It includes theory, exercises, exam questions, and bonus material – most with bilingual comments.
