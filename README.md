@@ -6,7 +6,7 @@ Este repositorio contiene todo mi aprendizaje y práctica de los fundamentos de 
 
 ---
 
-## 📁 Estructura del repositorio
+## 📁 Estructura del repositorio.
 
 | Carpeta            | Descripción |
 |--------------------|-------------|
