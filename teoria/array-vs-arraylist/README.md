@@ -5,7 +5,7 @@ In Java, both **Arrays** and **ArrayList** store multiple values, but hava key d
 
 ---
 
-##  ✅ 1. Arrays
+##  ✅ 1. Arrays.
 
 Un **Array** es una **estructura fija** que guarda elementos del mismo tipo.
 An **Array** is a **fixed structure** that holds elements of the same type.
