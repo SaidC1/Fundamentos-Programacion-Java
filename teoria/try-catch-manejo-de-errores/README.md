@@ -23,7 +23,7 @@ El **try-catch** solo maneja **errores en tiempo de ejecución**.
 
 ---
 
-## ✅ 2. Sintaxis básica
+## ✅ 2. Sintaxis básica.
 
 ```java
 try {
