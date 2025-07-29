@@ -1,4 +1,4 @@
-# ⚠️ Try-Catch y Manejo de Errores en Java / Error Handling in Java
+# ⚠️ Try-Catch y Manejo de Errores en Java / Error Handling in Java.
 
 En Java, cuando ocurre un **error en tiempo de ejecución (Runtime Error)**, el programa se detiene.  
 Para evitarlo, usamos **try-catch** para **atrapar y manejar errores**.  
