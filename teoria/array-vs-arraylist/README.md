@@ -49,7 +49,7 @@ System.out.println(nombres.size())  // 2 elementos
 -Métodos útiles: .add(), .remove(), .get(), size()
 -Puede guardar objetos, no tipos primitivos directamente.
 
-✅ Comparación rápida
+✅ Comparación rápida.
 
 | Característica    | Array      | ArrayList                  |
 | ----------------- | ---------- | -------------------------- |
@@ -61,7 +61,7 @@ System.out.println(nombres.size())  // 2 elementos
 
 ---
 
-✅ Ejemplo práctico comparando ambos
+✅ Ejemplo práctico comparando ambos.
 
 ```java
 
