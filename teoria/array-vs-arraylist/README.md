@@ -24,7 +24,7 @@ numeros[2] = 50;                // Cambia el valor en la posición 2
 
 ---
 
-## ✅ ArrayList
+## ✅ ArrayList.
 
 Un ArrayList es una lista dinámica, su tamaño puede crecer o reducirse.
 An ArrayList is a dynamic list, it can grow or shrink.
