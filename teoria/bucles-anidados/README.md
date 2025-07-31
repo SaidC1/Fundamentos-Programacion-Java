@@ -73,3 +73,7 @@ Dibujar figuras con asteriscos
 Recorrer matrices bidimensionales
 
 Crear menús o repeticiones anidadas
+
+---
+
+✅ Resumen / Summary
