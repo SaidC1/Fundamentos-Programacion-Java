@@ -77,3 +77,12 @@ Crear menús o repeticiones anidadas
 ---
 
 ✅ Resumen / Summary
+
+| Elemento / Element          | Explicación / Description                       |
+| --------------------------- | ----------------------------------------------- |
+| Bucle anidado / Nested loop | Un ciclo dentro de otro / A loop inside another |
+| Útil para estructuras 2D    | Useful for 2D structures                        |
+| Combinable con for, while   | Works with for, while                           |
+
+Los bucles anidados permiten construir patrones, recorrer estructuras más complejas, y controlar la lógica de varias capas.
+Nested loops let you build patterns, handle complex structures, and apply logic across layers.
