@@ -101,4 +101,4 @@ Son más eficientes que concatenar con +
 
 Usa StringBuilder si no trabajas con múltiples hilos
 
-Usa StringBuffer si necesitas sincronización en entornos multihilo
+Usa StringBuffer si necesitas sincronización en entornos multihilo.
