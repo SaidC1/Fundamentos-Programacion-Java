@@ -95,10 +95,10 @@ public class EjemploStringBuilder {
 ---
 
 📌 Resumen
-StringBuilder y StringBuffer permiten modificar texto sin crear nuevos objetos
+StringBuilder y StringBuffer permiten modificar texto sin crear nuevos objetos.
 
 Son más eficientes que concatenar con +
 
-Usa StringBuilder si no trabajas con múltiples hilos
+Usa StringBuilder si no trabajas con múltiples hilos.
 
 Usa StringBuffer si necesitas sincronización en entornos multihilo.
