@@ -73,9 +73,9 @@ if (edad >= 15) {
 ---
 
 📌 ¿Para qué sirven? / Why use them?
-Para aplicar condiciones múltiples
+Para aplicar condiciones múltiples.
 
-Para controlar flujos más complejos
+Para controlar flujos más complejos.
 
 Para validar múltiples datos relacionados.
 
@@ -91,4 +91,5 @@ Para trabajar con estructuras bidimensionales.
 | Común en           | if, switch, for, while                    |
 | Riesgo             | Código confuso si no se indentan bien     |
 | Solución           | Indentación, nombres claros, usar métodos |
+
 
