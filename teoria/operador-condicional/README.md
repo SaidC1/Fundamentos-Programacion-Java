@@ -6,7 +6,7 @@ The ternary operator is a **short version** of writing an `if-else` statement.
 
 ---
 
-## ✅ Sintaxis / Syntax
+## ✅ Sintaxis / Syntax.
 
 ```java
 condición ? valor_si_verdadero : valor_si_falso;
@@ -15,7 +15,7 @@ condition ? true_value : false_value;
 
 ---
 
-🔹 Ejemplo básico / Basic Example
+🔹 Ejemplo básico / Basic Example.
 
 int edad = 18;
 String resultado = (edad >= 18) ? "Mayor de edad" : "Menor de edad";
@@ -27,7 +27,7 @@ Mayor de edad
 
 ---
 
-🔹 Comparado con if-else / Compared to if-else
+🔹 Comparado con if-else / Compared to if-else.
 
 // Versión larga
 if (edad >= 18) {
@@ -41,7 +41,7 @@ resultado = (edad >= 18) ? "Mayor de edad" : "Menor de edad";
 
 ---
 
-🔄 Ejemplo con números / Numeric Example
+🔄 Ejemplo con números / Numeric Example.
 
 int a = 10, b = 20;
 int mayor = (a > b) ? a : b;
@@ -53,14 +53,14 @@ El mayor es: 20
 
 ---
 
-⚠️ Cuándo usarlo / When to use
-✅ Útil para expresiones simples
-✅ Ideal para asignaciones directas
-⚠️ Evita usarlo con lógica compleja, puede volverse ilegible
+⚠️ Cuándo usarlo / When to use.
+✅ Útil para expresiones simples.
+✅ Ideal para asignaciones directas.
+⚠️ Evita usarlo con lógica compleja, puede volverse ilegible.
 
 ---
 
-✅ Resumen / Summary
+✅ Resumen / Summary.
 
 | Concepto / Concept | Explicación / Explanation                     |
 | ------------------ | --------------------------------------------- |
@@ -71,3 +71,4 @@ El mayor es: 20
 
 El operador ternario te permite escribir código más limpio y compacto, si lo usas con responsabilidad.
 The ternary operator helps you write cleaner and shorter code, if used wisely.
+
