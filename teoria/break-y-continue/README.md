@@ -71,3 +71,17 @@ Salida / Output:
 | ----------------------- | --------------------------------------------- |
 | `break`                 | Salir del ciclo completamente / Exit the loop |
 | `continue`              | Saltar una iteración / Skip current iteration |
+
+---
+
+⚠️ Buenas prácticas
+Evita abusar de break o continue, puede dificultar la lectura del código
+Úsalos cuando realmente mejoran la lógica
+Siempre comenta si es necesario su propósito
+
+---
+
+🧠 Resumen / Summary
+break y continue permiten tener mayor control en la ejecución de los bucles, haciendo tu código más dinámico y flexible.
+break and continue give you more control over loop execution, making your code more dynamic and flexible.
+
