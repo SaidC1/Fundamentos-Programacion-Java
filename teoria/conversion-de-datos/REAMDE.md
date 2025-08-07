@@ -62,3 +62,37 @@ String texto = String.valueOf(numero);
 
 double precio = 9.99;
 String resultado = Double.toString(precio);
+
+---
+
+✅ Buenas prácticas / Best Practices
+Verifica que el valor se pueda convertir antes de hacerlo.
+Usa excepciones para manejar errores de conversión (try-catch).
+Usa Integer.parseInt() y similares con cuidado si el String puede tener letras.
+
+---
+
+🔍 Ejemplo completo
+
+import java.util.Scanner;
+
+public class ConversionEjemplo {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Ingresa un número decimal: ");
+        double decimal = sc.nextDouble();
+
+        int entero = (int) decimal;
+        System.out.println("Decimal: " + decimal);
+        System.out.println("Convertido a entero: " + entero);
+    }
+}
+
+🧠 Resumen / Summary
+
+| Tipo / Type     | Descripción / Description                    |
+| --------------- | -------------------------------------------- |
+| Implícita       | Java convierte automáticamente               |
+| Explícita       | Tú haces el casting manualmente              |
+| String → número | Usa `Integer.parseInt`, `Double.parseDouble` |
+| Número → String | Usa `String.valueOf`, `.toString()`          |
