@@ -89,3 +89,23 @@ public class Main {
         p1.saludar();
     }
 }
+
+---
+
+✅ Buenas prácticas / Best Practices
+Usar nombres claros para clases y atributos
+La primera letra de la clase siempre en mayúscula
+Cada clase debe ir en su propio archivo .java
+Usar constructores para inicializar objetos
+
+---
+
+🧠 Resumen / Summary
+
+| Concepto / Concept | Descripción / Description     |
+| ------------------ | ----------------------------- |
+| Clase / Class      | Plantilla de datos y acciones |
+| Objeto / Object    | Instancia de una clase        |
+| Atributos          | Datos de un objeto            |
+| Métodos            | Acciones de un objeto         |
+| Constructor        | Inicializa el objeto          |
