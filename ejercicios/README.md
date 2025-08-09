@@ -36,3 +36,10 @@ Ask for help if needed — let’s practice together!
 
 📁 [Volver al repositorio principal](../README.md)  
 📁 [Back to main repository](../README.md)
+
+---
+
+## POO (Java)
+- [Constructores](poo_java/constructores/README.md)
+
+
