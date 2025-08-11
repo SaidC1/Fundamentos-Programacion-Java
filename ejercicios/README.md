@@ -1,5 +1,5 @@
-# 📝 Ejercicios – Fundamentos de Programación  
-# 📝 Exercises – Programming Fundamentals
+# 📝 Ejercicios – Fundamentos de Programación.
+# 📝 Exercises – Programming Fundamentals.
 
 Esta carpeta contiene preguntas tipo examen, respuestas y código en Java para practicar.  
 This folder contains exam-style questions, answers, and Java code for practice.
