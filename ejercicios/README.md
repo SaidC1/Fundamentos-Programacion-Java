@@ -6,7 +6,7 @@ This folder contains exam-style questions, answers, and Java code for practice.
 
 ---
 
-## 📄 Contenido / Contents
+## 📄 Contenido / Contents.
 
 - [`preguntas.md`](./preguntas.md):  
   ✅ Preguntas de repaso organizadas por tema (condicionales, ciclos, métodos…).  
@@ -22,7 +22,7 @@ This folder contains exam-style questions, answers, and Java code for practice.
 
 ---
 
-## 💡 Recomendaciones / Recommendations
+## 💡 Recomendaciones / Recommendations.
 
 - Intenta responder primero en papel o en el archivo `respuestas.md`.  
 - Luego crea un archivo Java en `ejercicios-java/` para resolverlo programando.  
@@ -39,7 +39,7 @@ Ask for help if needed — let’s practice together!
 
 ---
 
-## POO (Java)
+## POO (Java).
 - [Constructores](poo_java/constructores/README.md)
 
 
