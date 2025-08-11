@@ -1,9 +1,9 @@
-# 📝 Preguntas tipo examen – Fundamentos de Programación  
-# 📝 Exam-style Questions – Programming Fundamentals
+# 📝 Preguntas tipo examen – Fundamentos de Programación.
+# 📝 Exam-style Questions – Programming Fundamentals.
 
 ---
 
-## 🧠 Conceptos generales / General Concepts
+## 🧠 Conceptos generales / General Concepts.
 
 1. ¿Qué es un algoritmo y para qué sirve?  
    What is an algorithm and what is it used for?
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔢 Tipos de datos y variables / Data Types and Variables
+## 🔢 Tipos de datos y variables / Data Types and Variables.
 
 4. ¿Qué diferencia hay entre una variable y una constante en Java?  
    What’s the difference between a variable and a constant in Java?
@@ -38,7 +38,7 @@
 
 ---
 
-## 🔀 Condicionales / Conditionals
+## 🔀 Condicionales / Conditionals.
 
 7. Escribe un condicional `if` que verifique si una persona es mayor de edad (>= 18).  
    Write an `if` statement that checks if someone is 18 or older.
@@ -51,7 +51,7 @@
 
 ---
 
-## 🔂 Ciclos / Loops
+## 🔂 Ciclos / Loops.
 
 10. Escribe un ciclo `for` que imprima los números del 1 al 10.  
     Write a `for` loop that prints numbers from 1 to 10.
@@ -64,7 +64,7 @@
 
 ---
 
-## 📦 Métodos / Methods
+## 📦 Métodos / Methods.
 
 13. ¿Qué es un método en Java y para qué se usa?  
     What is a method in Java and what is it used for?
@@ -74,7 +74,7 @@
 
 ---
 
-## 📚 Arreglos / Arrays
+## 📚 Arreglos / Arrays.
 
 15. ¿Qué es un arreglo y para qué sirve?  
     What is an array and what is it used for?
@@ -87,7 +87,7 @@
 
 ---
 
-## ⚠️ Errores comunes / Common Errors
+## ⚠️ Errores comunes / Common Errors.
 
 18. Da un ejemplo de un error de sintaxis.  
     Give an example of a syntax error.
