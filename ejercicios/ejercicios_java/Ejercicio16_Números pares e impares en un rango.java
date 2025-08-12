@@ -1,4 +1,4 @@
-/*/Ejercicio 16 – Números pares e impares en un rango / Even & Odd Numbers in a Range
+/*/zEjercicio 16 – Números pares e impares en un rango / Even & Odd Numbers in a Range
 
 🇪🇸 Descripción
 
@@ -60,13 +60,11 @@ If i % 2 == 0 → add to evens; else → to odds.
 
 Print both lists. /* */
 
----
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
-🧩 Código (Java)
-
-import java.util;
-
-public class Ejercicio16ParesImpares {
+public class Ejercicio16_Números_pares_e_impares_en_un_rango {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Integer inicio = null, fin = null;
@@ -131,7 +129,6 @@ public class Ejercicio16ParesImpares {
     }
 }
 
----
 
 /* 🧪 Ejemplo de ejecución
 
