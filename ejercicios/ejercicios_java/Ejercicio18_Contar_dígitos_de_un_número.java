@@ -21,3 +21,19 @@ public class Ejercicio18_Contar_dígitos_de_un_número {
                 System.out.println("Erro: el número debe ser positivo.");
             }
         } while (numero <= 0);
+
+        // Contar dígitos
+        int contador = 0;
+        int temp = numero;
+        while (temp > 0) {
+            temp /= 10;
+            contador++;
+        }
+
+        System.out.println("El número " + numero + " tiene " + contador + " dígitos. ");
+
+        sc.close();
+    }
+}
+
+
