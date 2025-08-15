@@ -100,30 +100,3 @@ public class Ejercicio16_Números_pares_e_impares_en_un_rango {
 }
 
 
-/* 🧪 Ejemplo de ejecución
-
-Ingresa el número inicial: 2
-Ingresa el número final: 10
-
-Números pares:
-2 4 6 8 10
-
-Números impares:
-3 5 7 9
-
-✅ Notas
-
-Si prefieres no intercambiar, puedes volver a pedir los valores hasta que inicio <= fin.
-
-El rango es inclusive (incluye inicio y fin si aplican).
-
-Puedes optimizar empezando el bucle en el primer par/impar del rango, pero aquí se prioriza legibilidad.
-
----
-
-🧰 Cómo compilar y ejecutar
-
-javac Ejercicio16ParesImpares.java
-java Ejercicio16ParesImpares
-
- */
