@@ -29,36 +29,7 @@ Recorrer con for (int i = inicio; i <= fin; i++).
 Si i % 2 == 0 → agregar a pares; si no → a impares.
 
 Imprimir los dos listados.
-
-🇬🇧 Description
-
-Ask the user for two integers: start and end of the (inclusive) range. Print:
-
-All even numbers in the range.
-
-All odd numbers in the range.
-
-Requirements
-
-Validate that start ≤ end. If provided in reverse order, swap them or ask again.
-
-Use a for loop to iterate over the range.
-
-Use if with % to check even (n % 2 == 0) and odd (n % 2 != 0).
-
-Handle invalid inputs with clear messages.
-
-Steps (algorithm)
-
-Read start and end from input.
-
-If start > end, swap values.
-
-Loop using for (int i = start; i <= end; i++).
-
-If i % 2 == 0 → add to evens; else → to odds.
-
-Print both lists. /* */
+ /* */
 
 import java.util.ArrayList;
 import java.util.List;
