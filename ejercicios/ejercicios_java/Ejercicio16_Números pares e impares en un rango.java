@@ -1,6 +1,5 @@
 /*/zEjercicio 16 – Números pares e impares en un rango / Even & Odd Numbers in a Range
 
-🇪🇸 Descripción
 
 Pide al usuario dos números enteros: inicio y fin del rango (inclusive). Muestra por pantalla:
 
