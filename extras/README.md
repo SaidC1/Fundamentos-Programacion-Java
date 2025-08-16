@@ -1,5 +1,5 @@
-# 📎 Extras – Archivos PDF  
-# 📎 Extras – PDF Files
+# 📎 Extras – Archivos PDF.
+# 📎 Extras – PDF Files.
 
 Esta carpeta contiene versiones imprimibles en PDF de la teoría y ejercicios de Fundamentos de Programación.  
 This folder contains printable PDF versions of the theory and exercises for Programming Fundamentals.
