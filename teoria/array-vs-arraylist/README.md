@@ -1,4 +1,4 @@
-# 📦 Arrays vs ArrayList en Java / Arrays vs ArrayList in Java
+# 📦 Arrays vs ArrayList en Java / Arrays vs ArrayList in Java.
 
 En Java, tanto los **Arrays** como los **ArrayList** sirven para almacenar múltiples valores, pero tienen diferencias importantes.
 In Java, both **Arrays** and **ArrayList** store multiple values, but hava key dufferences.
