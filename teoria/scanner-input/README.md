@@ -97,9 +97,9 @@ El `if-else` permite ejecutar diferentes bloques de código según una condició
 
 ```java
 if (condición) {
-    // código si la condición es verdadera
+    // código si la condición es verdadera.
 } else {
-    // código si la condición es falsa
+    // código si la condición es falsa.
 }
 
 📌 condición → expresión booleana (true o false).
