@@ -1,11 +1,11 @@
-# 📥 Lectura de Datos con Scanner en Java / Reading Input with Scanner in Java
+# 📥 Lectura de Datos con Scanner en Java / Reading Input with Scanner in Java.
 
 Para leer datos del usuario en Java se utiliza la clase **`Scanner`** del paquete `java.util`.  
 To read user input in Java, we use the **`Scanner`** class from the `java.util` package.
 
 ---
 
-## ✅ Crear un objeto Scanner / Create a Scanner object
+## ✅ Crear un objeto Scanner / Create a Scanner object.
 
 ```java
 import java.util.Scanner;
