@@ -4,7 +4,7 @@
 ### 📄 `guia-teorica/operadores-relacionales/README.md`
 
 ```markdown
-# ⚖️ Operadores Relacionales / Relational Operators
+# ⚖️ Operadores Relacionales / Relational Operators.
 
 Los operadores relacionales comparan valores y devuelven `true` o `false`.  
 Relational operators compare values and return `true` or `false`.
