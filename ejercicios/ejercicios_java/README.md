@@ -1,4 +1,4 @@
-# 💻 Java Practice – Basic Programming Exercises
+# 💻 Java Practice – Basic Programming Exercises.
 
 This folder contains **26 basic Java exercises** that cover core programming concepts.  
 Each file is named according to its purpose and includes comments in both **Spanish** and **English**.
@@ -8,7 +8,7 @@ Cada archivo está nombrado de forma clara y contiene comentarios en **español*
 
 ---
 
-## 📋 Exercise List
+## 📋 Exercise List.
 
 | #  | File Name                           | Description |
 |----|-------------------------------------|-------------|
@@ -41,10 +41,11 @@ Cada archivo está nombrado de forma clara y contiene comentarios en **español*
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run.
 
 To run any exercise:
 
 ```bash
 javac NombreDelArchivo.java
 java NombreDelArchivo
+
