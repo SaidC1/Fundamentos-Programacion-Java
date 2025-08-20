@@ -1,8 +1,9 @@
 # 📘 Fundamentos de Programación en Java.
 
-Este repositorio contiene todo mi aprendizaje y práctica de los fundamentos de la programación en Java. Aquí se incluyen apuntes teóricos, ejercicios resueltos, preguntas tipo examen y materiales extra.
+Este repositorio contiene todo mi aprendizaje y práctica de los fundamentos de la programación en Java.  
+Incluye **apuntes teóricos, ejercicios resueltos, preguntas tipo examen y materiales extra** con ejemplos bien comentados.
 
-> Este proyecto es parte de mi formación como estudiante de Ingeniería en Sistemas Computacionales.
+> Proyecto personal como parte de mi formación en **Ingeniería en Sistemas Computacionale
 
 ---
 
