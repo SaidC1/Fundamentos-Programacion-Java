@@ -32,6 +32,13 @@ Este repositorio contiene todo mi aprendizaje y práctica de los fundamentos de 
 
 ---
 
+🚀 Roadmap
+	•	Programación Orientada a Objetos (POO)
+	•	Manejo de archivos en Java
+	•	Proyectos pequeños (mini apps en consola)
+
+---
+
 ## 🚀 Propósito del repositorio.
 
 - Reforzar lo visto en clase  
