@@ -29,7 +29,16 @@ Incluye **apuntes teóricos, ejercicios resueltos, preguntas tipo examen y mater
 - Arreglos y matrices bidimensionales
 - Entrada/salida por consola (`Scanner`)
 - Errores comunes y buenas prácticas
-- Menús interactivos y lógica de programación
+- Menús interactivos y lógica de 
+
+---
+
+## 🆕 Novedades
+
+- ✅ Nuevos ejercicios de arreglos bidimensionales  
+- ✅ Sección de menús interactivos con `Scanner`  
+- ✅ Carpeta `extras/` con desafíos lógicos (en desarrollo
+
 
 ---
 
