@@ -13,15 +13,24 @@ public class Persona {
 
     public Persona(String nombre, int edad) {
         this.nombre = Objects.requireNonNull(nombre, "nombre no puede ser null").trim();
-        if (this.nombre.isEmpty()) this.nombre = "Sin nombre";
-        if (edad < 0) throw new IllegalArgumentException("La edad no puede ser negativa");
+        if (this.nombre.isEmpty())
+            this.nombre = "Sin nombre";
+        if (edad < 0)
+            throw new IllegalArgumentException("La edad no puede ser negativa");
         this.edad = edad;
     }
-    
-    public String getNombre() {return nombre; }
-    public int getEdad() { return edad; }
 
-    public void complirAños() { this.edad++; }
+    public String getNombre() {
+        return nombre;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void complirAños() {
+        this.edad++;
+    }
 
     @Override
     public String toString() {
