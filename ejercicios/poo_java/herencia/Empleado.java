@@ -22,4 +22,16 @@ public class Empleado extends Persona {
         if(porcentaje < 0) throw new IllegalArgumentException("Porcentaje inválido");
         this.salario += this.salario * (porcentaje / 100.0);
     }
+     @Override
+    public String toString() {
+        return "Empleado{" +
+                "nombre='" + getNombre() + "', " +
+                "edad=" + getEdad() + ", " +
+                "salario=" + salario +
+                "}";
+
+    }
 }
+
+}
+
