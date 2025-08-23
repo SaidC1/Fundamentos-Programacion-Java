@@ -33,7 +33,7 @@ Incluye **apuntes teóricos, ejercicios resueltos, preguntas tipo examen y mater
 
 ---
 
-## 🆕 Novedades
+## 🆕 Novedades.
 
 - ✅ Nuevos ejercicios de arreglos bidimensionales  
 - ✅ Sección de menús interactivos con `Scanner`  
