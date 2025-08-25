@@ -1,5 +1,5 @@
-# 📘 Teoría – Fundamentos de Programación  
-# 📘 Theory – Programming Fundamentals
+# 📘 Teoría – Fundamentos de Programación.
+# 📘 Theory – Programming Fundamentals.
 
 Esta carpeta contiene la guía teórica en formato Markdown con los conceptos clave de la materia.  
 This folder contains the theoretical guide in Markdown format with key programming concepts.
