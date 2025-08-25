@@ -6,7 +6,7 @@ This folder contains the theoretical guide in Markdown format with key programmi
 
 ---
 
-## 📄 Contenido / Contents
+## 📄 Contenido / Contents.
 
 - [`guia-teorica.md`](./guia-teorica.md)  
   ✅ Guía completa con temas como algoritmos, tipos de datos, estructuras de control, métodos, arreglos y buenas prácticas.  
@@ -14,7 +14,7 @@ This folder contains the theoretical guide in Markdown format with key programmi
 
 ---
 
-## 💡 Uso recomendado / Suggested Use
+## 💡 Uso recomendado / Suggested Use.
 
 Puedes estudiar este archivo antes de los exámenes o mientras haces ejercicios prácticos.  
 You can study this file before exams or while working on practice exercises.
