@@ -6,10 +6,26 @@ import java.util.Objects;
 public class Gerente extends Empleado {
     private String departamento;
 
-    public Gerente () {
+    public Gerente() {
         // Llama a Empleado() y luego setea departamento
         super();
         this.departamento = "Sin departamento";
     }
-    
+
+    public Gerente(String nombre, int edad, double salario, String departamento) {
+        super(nombre, edad, salario); // sub-objeto Empleado/Persona
+        this.departamento = (Objects.requireNonNullElse(departamento, "")).trim();
+        if (this.departamento.isEmpty()) this.departamento = "Sin departamento";
+    }
+
+    public String getDepartamento() { return departamento; }
+
+    // Sobrescritura con super.toString() para reusar formato
+    @Override
+    public String toString() {
+        return "Gerente{" +
+                "base=" + super.toString() +
+                ", departamento='" + departamento + '\'' +
+                '}';
+    }
 }
