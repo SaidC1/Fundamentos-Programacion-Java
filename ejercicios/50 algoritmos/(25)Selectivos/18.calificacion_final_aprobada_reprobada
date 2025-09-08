@@ -1,0 +1,10 @@
+Algoritmo calificación_final_aprobada_reprobada
+	leer calificacion
+	si calificacion >= 6 Entonces
+		Escribir "Aprobado"
+	SiNo
+		Escribir "Reprobado"
+	FinSi
+	
+	
+FinAlgoritmo

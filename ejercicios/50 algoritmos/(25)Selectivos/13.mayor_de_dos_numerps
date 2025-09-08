@@ -1,0 +1,10 @@
+Algoritmo Mayor_de_dos_números
+	leer num1
+	leer num2
+	si num1 > num2 Entonces
+		Escribir "El mayor es: " num1
+	SiNo
+		Escribir "EL meyor es: " num2
+	FinSi
+	
+FinAlgoritmo
